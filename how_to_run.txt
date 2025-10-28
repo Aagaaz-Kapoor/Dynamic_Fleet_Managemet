@@ -1,0 +1,12 @@
+# How to run Dynamic Fleet Manager
+
+1. Open PowerShell in the project folder:
+   cd "C:\Users\Aagaaz Kapoor\Desktop\OFI"
+
+2. (Optional) Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+   streamlit run fleet_manager.py
+
+4. Open the provided local URL in your browser if it doesn't open automatically.
